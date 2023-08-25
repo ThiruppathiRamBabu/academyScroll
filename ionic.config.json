@@ -1,0 +1,7 @@
+{
+  "name": "academyScroll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
